@@ -148,6 +148,8 @@ For any questions or clarifications, please contact us at hr@entnt.in.
 ![Screenshot (213)](https://github.com/user-attachments/assets/2b70dedb-ce2b-4247-b710-abe10c5bdc34)
 https://github.com/user-attachments/assets/4a2dc42f-0de3-4060-bd95-5e0c31db414e
 
+https://github.com/user-attachments/assets/ff7f4be0-348e-48d3-9528-b53314465dd2
+
 ## Credentials for Testing
 
 - **Admin Login**
