@@ -144,6 +144,9 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ## Contact
 
 For any questions or clarifications, please contact us at hr@entnt.in.
+## Photos
+![Screenshot (213)](https://github.com/user-attachments/assets/2b70dedb-ce2b-4247-b710-abe10c5bdc34)
+https://github.com/user-attachments/assets/4a2dc42f-0de3-4060-bd95-5e0c31db414e
 
 ## Credentials for Testing
 
